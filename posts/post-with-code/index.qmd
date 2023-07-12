@@ -1,13 +1,10 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Banki"
+author: "Krzysztof Banas"
 date: "2023-07-12"
-categories: [news, code, analysis]
-image: "image.jpg"
+categories: [finanse]
 ---
 
-This is a post with executable code.
+[![DBS](/posts/banks/dbs.png)](https://internet-banking.dbs.com.sg/IB/Welcome)
 
-```{r}
-1 + 1
-```
+[![UOB](/posts/banks/uob.png)](https://pib.uob.com.sg/PIBLogin/Public/processPreCapture.do?keyId=lpc)
