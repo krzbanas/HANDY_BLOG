@@ -5,6 +5,11 @@ date: "2023-07-12"
 categories: [finanse]
 ---
 
+
+::: {layout-ncol=2}
+
 [![DBS](/posts/banks/dbs.png)](https://internet-banking.dbs.com.sg/IB/Welcome)
 
 [![UOB](/posts/banks/uob.png)](https://pib.uob.com.sg/PIBLogin/Public/processPreCapture.do?keyId=lpc)
+
+:::
