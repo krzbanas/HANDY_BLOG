@@ -2,6 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/hobby/index.html",
+      "/posts/generative_art/artists.html",
+      "/posts/generative_art/educators.html",
       "/posts/banks/index.html",
       "/posts/welcome/index.html"
     ]

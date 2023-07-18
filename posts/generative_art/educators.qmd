@@ -1,0 +1,15 @@
+---
+title: "EducatoRs and code shaReRs"
+author: "Krzysztof Banas"
+date: "2023-07-16"
+categories: [aRt]
+---
+
+EducatoRs and code shaReRs
+
+
+::: {layout-ncol="2"}
+[![Marek Niedzwiecki](images/MN.png)](http://www.marekniedzwiecki.pl)
+:::
+
+

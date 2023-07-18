@@ -1,0 +1,14 @@
+---
+title: "Ulubione"
+author: "Krzysztof Banas"
+date: "2023-07-18"
+categories: [hobby]
+---
+
+::: {layout-ncol="2"}
+[![Marek Niedzwiecki](images/MN.png)](http://www.marekniedzwiecki.pl)
+
+
+:::
+
+
