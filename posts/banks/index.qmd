@@ -5,11 +5,15 @@ date: "2023-07-12"
 categories: [finanse]
 ---
 
+::: {layout-ncol="2"}
+[![DBS](images/dbs.png)](https://internet-banking.dbs.com.sg/IB/Welcome)
 
-::: {layout-ncol=2}
+[![UOB](images/uob.png)](https://pib.uob.com.sg/PIBLogin/Public/processPreCapture.do?keyId=lpc)
 
-[![DBS](/posts/banks/dbs.png)](https://internet-banking.dbs.com.sg/IB/Welcome)
+[![ING PL](images/ing.png)](https://login.ingbank.pl/mojeing/app/#login)
 
-[![UOB](/posts/banks/uob.png)](https://pib.uob.com.sg/PIBLogin/Public/processPreCapture.do?keyId=lpc)
+[![Millenium PL](images/millenium.png)](https://www.bankmillennium.pl/logowanie)
 
 :::
+
+
